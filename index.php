@@ -1,1 +1,1 @@
-<?php echo "Hello World"; die();
+<?php echo "Hello World! This is testing github profilies!"; die();
